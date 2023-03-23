@@ -1,16 +1,43 @@
 body{
     background-color: cyan;
+    font-family: 'Noto Sans', sans-serif;
 }
 header{
-    background-color: blueviolet;
+    background-color: rgb(43, 70, 226);
     color: azure;
     padding: 10px;
     margin: 50px;
 }
 
+.secciones{
+    width: 100%;
+    text-align: center;
+
+}
+
 section{
     display: inline-block;
+    margin: 25px;
+    background-color: aquamarine;
+    padding: 25px;
+    border-radius: 17px;
+    box-shadow: 5px 5px 15px gray;
+    border: 1px solid gray;
 }
+
+.beach{
+    width: 250px;
+    height: 150px;
+    border-radius: 17px;
+}
+
+.description{
+    width: 250px;
+}
+
 #cuerpo{
+    background-color: rgb(19, 200, 140);
+    padding: 20px;
+    margin: 0 20px;
 
 }
