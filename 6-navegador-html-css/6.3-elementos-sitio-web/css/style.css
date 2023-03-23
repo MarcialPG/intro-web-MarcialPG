@@ -1,0 +1,16 @@
+body{
+    background-color: cyan;
+}
+header{
+    background-color: blueviolet;
+    color: azure;
+    padding: 10px;
+    margin: 50px;
+}
+
+section{
+    display: inline-block;
+}
+#cuerpo{
+
+}
